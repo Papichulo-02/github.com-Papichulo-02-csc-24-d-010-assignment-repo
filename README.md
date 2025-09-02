@@ -49,3 +49,12 @@ if ($conn->connect_error) {
 
 # Additional Information
 Ensure that your server has PHP and MySQL installed.
+
+
+---
+
+## 🧑‍💻 Notes
+- Make sure the database name in your PHP files matches the name of the database you created in phpMyAdmin.
+- If you have login credentials, mention them here (e.g. default admin username/password).
+
+---
